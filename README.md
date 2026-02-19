@@ -188,3 +188,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Disclaimer
 
 This application is for educational and informational purposes only. The AI model provides automated analysis and should not replace professional diagnosis from agricultural experts or plant pathologists. For serious plant health concerns, please consult with local agricultural extension offices or certified plant disease specialists.
+# PDC-Backend

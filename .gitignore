@@ -13,9 +13,6 @@ __pycache__/
 node_modules/
 build/
 
-# Model files (large)
-*.h5
-
 # IDE
 .vscode/
 .idea/
